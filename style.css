@@ -1,0 +1,14 @@
+body {
+    background: lightgreen;
+}
+
+.login_div {
+    background: white;
+    float: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#p1_input, #p2_input {
+    display: inline-block;
+}
